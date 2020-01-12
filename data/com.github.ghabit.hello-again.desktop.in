@@ -1,9 +1,9 @@
 [Desktop Entry]
-Name=Hello Again
+Name=Hello Packaging
 GenericName=Hello World App
 Comment=Proves that we can use Vala and Gtk
 Categories=Utility;Education;
-Exec=com.github.ghabit.hello-again
+Exec=com.github.ghabit.hello-packaging
 Icon=aplication-default-icon
 Terminal=false
 Type=Application

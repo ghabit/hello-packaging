@@ -1,5 +1,5 @@
     # project name and programming language
-    project ('com.github.ghabit.hello-again', 'vala', 'c')
+    project ('com.github.ghabit.hello-packaging', 'vala', 'c')
     
     # Include the translations module
     i18n = import('i18n')

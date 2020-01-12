@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Copyright 2020 Chmykh <guthabit@gmail.com> -->
 <component type="desktop">
- <id>com.github.ghabit.hello-again</id>
+ <id>com.github.ghabit.hello-packaging</id>
  <metadata_license>CC0</metadata_license>
  <name>Hello Again</name>
  <summary>A Catchy Tagline</summary>
